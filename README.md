@@ -1,4 +1,4 @@
-# Engaging Connect Four Game
+# Connect Four Game
 
 **Preview**: (Add a link to a live demo or screenshots here)
 
