@@ -1,6 +1,6 @@
 # Connect Four Game
 
-**Preview**: [(Add a link to a live demo or screenshots here)](https://mitesh-barve.github.io/Connect4/)
+**Preview**:(https://mitesh-barve.github.io/Connect4/)
 
 ## Overview
 
