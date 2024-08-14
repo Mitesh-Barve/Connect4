@@ -17,7 +17,7 @@ This project is an interactive Connect Four game built using HTML, CSS, and Java
 
 ## Screenshots
 
-(Add screenshots of the game in action here, showing the board, game interactions, and winning conditions.)
+<img width="1277" alt="Screenshot 2024-02-19 lm2" src="https://github.com/Mitesh-Barve/Crypto-Asset-Manger-Dashboard-Responsive-/assets/128367882/eec00e3b-890c-4592-824b-75e05e0672cb">
 
 ## Technologies
 
@@ -27,7 +27,7 @@ This project is an interactive Connect Four game built using HTML, CSS, and Java
 
 ## Contributors
 
-- **Your Name** (Include a link to your GitHub or personal profile)
+- [Mitesh-Barve](https://github.com/Mitesh-Barve)
 
 ## License
 
