@@ -16,8 +16,8 @@ This project is an interactive Connect Four game built using HTML, CSS, and Java
 - **Reset Option**: A reset button allows for quick restarting of the game, clearing the board for a new match.
 
 ## Screenshots
+![Screenshot 2024-08-14 153844](https://github.com/user-attachments/assets/6646b571-c01f-4c01-ad4d-18304d373372)
 
-<img width="1277" alt="Screenshot 2024-02-19 lm2" src="https://github.com/Mitesh-Barve/Crypto-Asset-Manger-Dashboard-Responsive-/assets/128367882/eec00e3b-890c-4592-824b-75e05e0672cb">
 
 ## Technologies
 
